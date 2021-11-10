@@ -5,7 +5,7 @@ NetHunter||OnePlus7Plus
 
 1.一加7Pro手机
 
-2.[Platform-tools 谷歌的adb和fastboot工具包]（https://developer.android.google.cn/studio/releases/platform-tools）
+2.[Platform-tools 谷歌的adb和fastboot工具包](https://developer.android.google.cn/studio/releases/platform-tools）
 
 3.[氧OS线刷包 OxygenOS 10.3.0](https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_21.P.24_GLO_024_1912142025/OnePlus7ProOxygen_21.P.24_OTA_024_all_1912142025_acd8caa52e0b.zip)
 
@@ -14,13 +14,11 @@ NetHunter||OnePlus7Plus
 [androidsage](https://www.androidsage.com/2020/02/15/download-oxygen-os-10-3-1-ota-update-oneplus-7-7-pro-7t-7t-pro/)
 [thecustomdroid](https://www.thecustomdroid.com/download-oneplus-7-pro-oxygenos-android-10-update/#oxygenos-1030-non-eu-only)
 
-4.Twrp
+4.[Twrp:非官方版本](https://forum.xda-developers.com/t/recovery-3-4-0-10-unified-official-unofficial-twrp-for-oneplus-7-7-pro-5g-stable.3932943/)
 
 [img后缀的临时刷机包](https://sourceforge.net/projects/mauronofrio-twrp/files/Guacamole-Guacamoleb-Guacamolec/twrp-3.4.0-10-guacamole-unified-Q-mauronofrio.img/download)
 
 [zip后缀的永久刷机包](https://sourceforge.net/projects/mauronofrio-twrp/files/Guacamole-Guacamoleb-Guacamolec/twrp-3.4.0-10-guacamole-unified-installer-mauronofrio.zip/download)
-
-[XDA论坛:非官方版本](https://forum.xda-developers.com/t/recovery-3-4-0-10-unified-official-unofficial-twrp-for-oneplus-7-7-pro-5g-stable.3932943/)
 
 5.[Magisk](https://github.com/topjohnwu/Magisk/releases)
 Magisk-v21.4.zip
