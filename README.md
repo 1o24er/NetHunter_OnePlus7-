@@ -5,14 +5,14 @@ NetHunter||OnePlus7Plus
 
 1.一加7Pro手机
 
-2.[谷歌的adb和fastboot工具集:platform-tools]（https://developer.android.google.cn/studio/releases/platform-tools）
+2.[Platform-tools 谷歌的adb和fastboot工具包]（https://developer.android.google.cn/studio/releases/platform-tools）
 
 3.[氧OS线刷包 OxygenOS 10.3.0](https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_21.P.24_GLO_024_1912142025/OnePlus7ProOxygen_21.P.24_OTA_024_all_1912142025_acd8caa52e0b.zip)
 
 其他可用下载地址：
-https://yun.daxiaamu.com/%E4%B8%80%E5%8A%A0%E6%89%8B%E6%9C%BA%E5%AE%98%E6%96%B9ROM/
-https://www.androidsage.com/2020/02/15/download-oxygen-os-10-3-1-ota-update-oneplus-7-7-pro-7t-7t-pro/
-https://www.thecustomdroid.com/download-oneplus-7-pro-oxygenos-android-10-update/#oxygenos-1030-non-eu-only
+[daxiaamu](https://yun.daxiaamu.com/%E4%B8%80%E5%8A%A0%E6%89%8B%E6%9C%BA%E5%AE%98%E6%96%B9ROM/)
+[androidsage](https://www.androidsage.com/2020/02/15/download-oxygen-os-10-3-1-ota-update-oneplus-7-7-pro-7t-7t-pro/)
+[thecustomdroid](https://www.thecustomdroid.com/download-oneplus-7-pro-oxygenos-android-10-update/#oxygenos-1030-non-eu-only)
 
 4.Twrp
 
