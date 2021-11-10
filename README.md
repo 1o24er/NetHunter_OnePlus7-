@@ -36,23 +36,24 @@ https://www.kali.org/get-kali/#kali-mobile
 
 # 步骤
 
-## 第一步：刷机（OxygenOS 10.3.0）
+### 第一步：刷机（OxygenOS 10.3.0）
+1. 
+运行“gpedit.msc”-打开本地组策略编辑器
+### 第二步：解锁
 
-## 第二步：解锁
+### 第三步：刷Twrp
 
-## 第三步：刷Twrp
+### 第四步：格式化Data分区
 
-## 第四步：格式化Data分区
+### 第五步：刷解密包（Disable_Dm-Verity_ForceEncrypt）
 
-## 第五步：刷解密包（Disable_Dm-Verity_ForceEncrypt）
+### 第六步：刷Magisk（Magisk-v21.4.zip）
 
-## 第六步：刷Magisk（Magisk-v21.4.zip）
+### 第七步：重启设置后，刷新Magisk（Magisk-v23.0.apk）
 
-## 第七步：重启设置后，刷新Magisk（Magisk-v23.0.apk）
+### 第八步：进Twrp刷入kali nethunter包重启
 
-## 第八步：进Twrp刷入kali nethunter包重启
-
-## 第九步：NetHunter->允许权限->Kali Chroot Manager-> START KALI CHROOT
+### 第九步：NetHunter->允许权限->Kali Chroot Manager-> START KALI CHROOT
 
 # 参考
 https://forum.xda-developers.com/t/rom-official-kali-nethunter-for-the-oneplus-7-oneplus-7-pro.3976357/
