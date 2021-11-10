@@ -5,7 +5,7 @@ NetHunter||OnePlus7Plus
 
 1.一加7Pro手机
 
-2.[Platform-tools](https://developer.android.google.cn/studio/releases/platform-tools）
+2.[adb和fastboot工具](https://developer.android.google.cn/studio/releases/platform-tools）
 
 3.[氧OS线刷包 OxygenOS 10.3.0](https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_21.P.24_GLO_024_1912142025/OnePlus7ProOxygen_21.P.24_OTA_024_all_1912142025_acd8caa52e0b.zip)
 
